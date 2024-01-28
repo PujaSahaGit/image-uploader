@@ -1,0 +1,12 @@
+http://127.0.0.1:8000/
+http://127.0.0.1:8000/admin
+command plane-pip install pillow
+vs code terminal-django-admin
+                cd imageuploader
+                python manage.py startap imageuploaderapp
+                python manage.py startapp
+                python manage.py startapp imageuploaderapp
+                python manage.py makemigrations
+                python manage.py migrate
+                python manage.py createsuperuser(admin=admin,password=admin,y)
+                python manage.py runserver
